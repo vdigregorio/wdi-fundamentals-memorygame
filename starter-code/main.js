@@ -16,3 +16,6 @@ if (cardTwo === cardFour) {
 } else {
     alert("Sorry, try again.");
 }
+
+var gameBoard = document.getElementById("game-board");
+//not sure about for loops, confusing!
